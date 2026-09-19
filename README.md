@@ -100,7 +100,7 @@ leena = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madathanapalleleena&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madathanapalleleena&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madathanapalleleena&layout=donut&theme=radical&hide_border=true" height="170"/>
 </div>
 
